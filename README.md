@@ -2,7 +2,7 @@
 
 ## Conceitos de Nodejs.
 
-## Funções:
+### Funções:
 * Criada as rotas de CRUD de projetos e tarefas:
   + POST /projects
   + GET /projects
