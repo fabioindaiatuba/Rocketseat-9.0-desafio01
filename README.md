@@ -2,10 +2,10 @@
 
 ## Funções:
 * Criada as rotas de CRUD de projetos e tarefas:
-  POST /projects
-  GET /projects
-  PUT /projects/:id
-  DELETE /projects/:id
-  POST /projects/:id/tasks
+  + POST /projects
+  + GET /projects
+  + PUT /projects/:id
+  + DELETE /projects/:id
+  + POST /projects/:id/tasks
 * Middleware para verificar se Projeto já existe.
 * Middleware global para contar as requisições.
