@@ -1,10 +1,8 @@
 # Rocketseat - GoSatck 9.0 - Desafio 01
 
-
-## Funções
-
+## Funções:
 * Criada as rotas de CRUD de projetos e tarefas:
-  POST /projects 
+  POST /projects
   GET /projects
   PUT /projects/:id
   DELETE /projects/:id
